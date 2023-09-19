@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viettran2502
+- 👋 Hi, I’m Viet
 - 👀 I’m interested in technology and programming.
 - 🌱 I’m currently learning web development and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
